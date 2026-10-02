@@ -1,0 +1,6 @@
+{
+  "name": "HoloBrew AI Workflow Synthesizer",
+  "description": "Interactive holographic AI synthesis and real-time execution animation of the coffee brewing flowchart protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
